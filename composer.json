@@ -1,5 +1,5 @@
 {
-  "name": "multilinguals/apollo-client",
+  "name": "jason-gao/apollo-client",
   "description": "apollo client for php",
   "type": "library",
   "license": "MIT",
@@ -7,9 +7,9 @@
     "Apollo",
     "Client"
   ],
-  "homepage": "https://github.com/multilinguals/apollo-php-client",
+  "homepage": "https://github.com/jason-gao/apollo-php-client",
   "require": {
-    "php": "~7.0"
+    "php": ">=5.6"
   },
   "autoload": {
     "psr-4": {
